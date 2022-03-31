@@ -1,7 +1,10 @@
-# Presentación
+# **Presentación**
 
-## Estudiante: _Franco Modesto_
+## Estudiante: _**Franco Modesto**_
+## Bio: _subido en la scaloneta_
+
+
+
+###### _toy chiquito_
 
 ![mi foto](Foto.jpg)
-
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
