@@ -1,9 +1,7 @@
 # **Presentación**
 
-## Estudiante: _**Franco Modesto**_
-## Bio: _subido en la scaloneta_
-
-
+## Estudiante: _Franco Modesto_
+## Bio: _"subido en la scaloneta"_
 
 ###### _toy chiquito_
 
